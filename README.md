@@ -11,7 +11,7 @@
 
 ## <a name="intro"></a>Introduction
 
- * **Nmap** is a free and open source utility for network exploration and security auditing. 
+ * **Nmap** is a free and open source utility for network exploration akaldjfnd security auditing. 
  * **Zenmap** is a multi-platform graphical frontend and results viewer for Nmap. 
  * **Ncat** is a general-purpose network sending and receiving utility, a reimplementation of Netcat. 
  * **Ndiff** is a an Nmap scan comparison utility. 
